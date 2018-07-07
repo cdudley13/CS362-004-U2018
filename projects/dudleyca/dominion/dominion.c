@@ -648,7 +648,8 @@ int getCost(int cardNumber)
 void smithy_Card(int currPlayer, int handPos, struct gameState *state) {
 	int i;
 	//+3 cards
-	for(i=0; i<3; i++) {
+	/* BUG #1 --> 5 cards can be drawn (vs 3) */
+	for(i=0; i<5; i++) {
 		drawCard(currPlayer, state);
 	}
 
@@ -658,9 +659,10 @@ void smithy_Card(int currPlayer, int handPos, struct gameState *state) {
 
 void adventure_Card(int currPlayer, int tempHand [], int z, struct gameState *state){
 	int c_Drawn;	//card drawn
-	int t_Drawn; 	//treasure drawn
-    
-	while(t_Drawn < 2) {
+
+	/* BUG #2--> 4 treasure cards can be revealed (vs. 2) */
+	int t_Drawn = 0; 	//treasure drawn
+	while(t_Drawn < 4) {
 		//if the deck is empty we need to shuffle discarded and add to deck
 		if (state->deckCount[currPlayer] < 1) {
 			shuffle(currPlayer, state);
@@ -690,7 +692,8 @@ void village_Card(int currPlayer, int handPos, struct gameState *state){
 	drawCard(currPlayer, state);
 
 	//+2 Actions
-	state->numActions = state->numActions + 2;
+	/* BUG #3 --> 4 actions can be taken (vs 2) */
+	state->numActions = state->numActions + 4;
 
 	//discard the card played from the hand
 	discardCard(handPos, currPlayer, state, 0);
@@ -699,7 +702,8 @@ void village_Card(int currPlayer, int handPos, struct gameState *state){
 void councilRoom_Card(int currPlayer, int handPos, struct gameState *state){
 	int i;
 	//+4 cards
-	for(i=0; i<4; i++) {
+	/* BUG #4 --> 3 cards can be drawn (vs 4) */
+	for(i=0; i<3; i++) {
 		drawCard(currPlayer, state);
 	}
 
