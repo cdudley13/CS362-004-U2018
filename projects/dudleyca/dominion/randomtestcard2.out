@@ -7,37 +7,37 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
-Failed! No extra action was added.
+Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 5/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 6/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 7/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -181,13 +181,13 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 31/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 32/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -211,19 +211,19 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 36/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 37/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 38/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -319,7 +319,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 54/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -679,7 +679,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 114/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -1093,13 +1093,13 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 183/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 184/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -1219,13 +1219,13 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 204/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 205/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -1507,7 +1507,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 252/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -1885,13 +1885,13 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 315/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 316/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -2083,13 +2083,13 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 348/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 349/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -2107,7 +2107,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 352/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -2143,31 +2143,31 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 358/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 359/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 360/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 361/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 362/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -2479,7 +2479,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 414/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -2545,7 +2545,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 425/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -3349,25 +3349,25 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 559/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 560/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 561/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 562/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -3727,7 +3727,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 622/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -4573,7 +4573,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 763/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -4663,31 +4663,31 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 778/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 779/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 780/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 781/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 782/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -5041,7 +5041,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 841/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -5077,7 +5077,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 847/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -5263,7 +5263,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 878/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -5353,25 +5353,25 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 893/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 894/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 895/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 896/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -5425,13 +5425,13 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 905/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 906/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -5521,19 +5521,19 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 921/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 922/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 923/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -5599,43 +5599,43 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 934/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 935/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 936/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 937/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 938/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 939/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 940/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -5761,7 +5761,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 961/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -5983,19 +5983,19 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 998/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 999/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1000/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -6061,25 +6061,25 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1011/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1012/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1013/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1014/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -6337,25 +6337,25 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1057/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1058/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1059/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1060/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -6481,7 +6481,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1081/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -6493,13 +6493,13 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1083/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1084/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -6649,19 +6649,19 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1109/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1110/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1111/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -6817,19 +6817,19 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1137/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1138/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1139/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -7075,13 +7075,13 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1180/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1181/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -7165,13 +7165,13 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1195/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1196/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -7387,19 +7387,19 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1232/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1233/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1234/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -7873,7 +7873,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1313/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -8131,13 +8131,13 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1356/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1357/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -8305,7 +8305,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1385/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -8347,19 +8347,19 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1392/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1393/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1394/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -8467,7 +8467,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1412/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -9343,7 +9343,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1558/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -9775,37 +9775,37 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1630/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1631/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1632/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1633/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1634/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1635/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -10039,7 +10039,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1674/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -10471,7 +10471,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1746/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -10819,25 +10819,25 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1804/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1805/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1806/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1807/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -10939,7 +10939,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1824/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -11287,7 +11287,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1882/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -11377,13 +11377,13 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1897/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1898/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -11533,13 +11533,13 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1923/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1924/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -11725,7 +11725,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1955/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -11965,7 +11965,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 1995/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -12157,7 +12157,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2027/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -12397,7 +12397,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2067/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -12433,19 +12433,19 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2073/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2074/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2075/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -12877,7 +12877,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2147/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -12901,7 +12901,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2151/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -13051,13 +13051,13 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2176/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2177/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -13081,13 +13081,13 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2181/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2182/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -13159,7 +13159,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2194/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -13411,31 +13411,31 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2236/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2237/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2238/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2239/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2240/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -13507,7 +13507,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2252/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -13705,7 +13705,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2285/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -13789,7 +13789,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2299/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -13849,7 +13849,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2309/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -14455,7 +14455,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2410/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -14575,7 +14575,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2430/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -14773,13 +14773,13 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2463/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2464/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -15049,7 +15049,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2509/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -15127,13 +15127,13 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2522/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2523/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -15175,13 +15175,13 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2530/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2531/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -15445,13 +15445,13 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2575/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2576/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -15667,25 +15667,25 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2612/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2613/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2614/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2615/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -15775,13 +15775,13 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2630/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2631/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -15889,7 +15889,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2649/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -15961,13 +15961,13 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2661/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2662/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -16189,7 +16189,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2699/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -16273,7 +16273,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2713/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -16393,7 +16393,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2733/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -16459,7 +16459,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2744/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -16519,19 +16519,19 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2754/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2755/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2756/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -16711,25 +16711,25 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2786/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2787/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2788/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2789/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -16951,19 +16951,19 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2826/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2827/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2828/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -17095,7 +17095,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2850/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -17533,7 +17533,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2923/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -17797,13 +17797,13 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2967/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2968/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -17971,13 +17971,13 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2996/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 2997/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -18409,7 +18409,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3069/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -18607,13 +18607,13 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3102/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3103/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -18757,7 +18757,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3127/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -18991,7 +18991,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3166/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -19051,7 +19051,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3176/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -19183,19 +19183,19 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3198/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3199/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3200/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -19411,7 +19411,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3236/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -19663,25 +19663,25 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3278/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3279/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3280/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3281/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -19759,13 +19759,13 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3294/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3295/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -19837,7 +19837,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3307/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -19951,13 +19951,13 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3326/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3327/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -20113,19 +20113,19 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3353/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3354/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3355/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -20431,7 +20431,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3406/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -20611,7 +20611,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3436/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -20815,19 +20815,19 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3470/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3471/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3472/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -20923,13 +20923,13 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3488/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3489/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -21157,13 +21157,13 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3527/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3528/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -21253,13 +21253,13 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3543/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3544/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -21319,13 +21319,13 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3554/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3555/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -21373,7 +21373,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3563/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -21421,7 +21421,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3571/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -21475,7 +21475,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3580/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -21565,7 +21565,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3595/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -21691,25 +21691,25 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3616/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3617/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3618/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3619/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -21841,31 +21841,31 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3641/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3642/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3643/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3644/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3645/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -21985,7 +21985,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3665/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -22267,19 +22267,19 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3712/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3713/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3714/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -22525,13 +22525,13 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3755/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3756/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -22645,7 +22645,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3775/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -23251,25 +23251,25 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3876/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3877/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3878/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3879/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -23473,13 +23473,13 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3913/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3914/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -23833,43 +23833,43 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3973/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3974/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3975/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3976/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3977/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3978/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 3979/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -24001,7 +24001,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4001/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -24127,7 +24127,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4022/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -24187,7 +24187,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4032/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -24319,7 +24319,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4054/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -24433,13 +24433,13 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4073/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4074/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -24829,7 +24829,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4139/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -24991,19 +24991,19 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4166/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4167/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4168/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -25051,13 +25051,13 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4176/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4177/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -25129,13 +25129,13 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4189/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4190/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -25417,25 +25417,25 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4237/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4238/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4239/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4240/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -25561,7 +25561,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4261/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -25669,7 +25669,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4279/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -25849,25 +25849,25 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4309/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4310/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4311/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4312/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -25885,7 +25885,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4315/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -26125,7 +26125,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4355/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -26263,13 +26263,13 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4378/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4379/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -26461,7 +26461,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4411/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -27559,7 +27559,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4594/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -27715,7 +27715,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4620/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -27793,7 +27793,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4633/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -28333,7 +28333,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4723/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -28717,7 +28717,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4787/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -28855,13 +28855,13 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4810/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4811/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -28987,7 +28987,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4832/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -29089,7 +29089,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4849/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -29365,7 +29365,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4895/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -29689,31 +29689,31 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4949/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4950/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4951/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4952/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4953/5000 ----
-Failed! Card was not added to hand.
+Passed! Card was added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -29725,19 +29725,19 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4955/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4956/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4957/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -29773,7 +29773,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4963/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -29887,7 +29887,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 
 ---- Iteration number: 4982/5000 ----
-Passed! Card was added to hand.
+Failed! Card was not added to hand.
 Passed! Card was played.
 Passed! One extra action was added.
 Passed! Card was discarded.
@@ -30001,7 +30001,7 @@ Passed! One extra action was added.
 Passed! Card was discarded.
 --------- End of testing for great_hall card --------
 File 'randomtestcard2.c'
-Lines executed:92.86% of 28
+Lines executed:89.29% of 28
 Creating 'randomtestcard2.c.gcov'
 
 File 'dominion.c'
@@ -30020,12 +30020,12 @@ Creating 'dominion.c.gcov'
         -:    5:#include <math.h>
         -:    6:#include <stdlib.h>
         -:    7:
-    94275:    8:int compare(const void* a, const void* b) {
-    94275:    9:  if (*(int*)a > *(int*)b)
+    93045:    8:int compare(const void* a, const void* b) {
+    93045:    9:  if (*(int*)a > *(int*)b)
     #####:   10:    return 1;
-    94275:   11:  if (*(int*)a < *(int*)b)
-    25140:   12:    return -1;
-    69135:   13:  return 0;
+    93045:   11:  if (*(int*)a < *(int*)b)
+    24812:   12:    return -1;
+    68233:   13:  return 0;
         -:   14:}
         -:   15:
     #####:   16:struct gameState* newGame() {
@@ -30062,18 +30062,18 @@ Creating 'dominion.c.gcov'
         -:   47:  //check number of players
      5000:   48:  if (numPlayers > MAX_PLAYERS || numPlayers < 2)
         -:   49:    {
-     2484:   50:      return -1;
+     2502:   50:      return -1;
         -:   51:    }
         -:   52:
         -:   53:  //set number of players
-     2516:   54:  state->numPlayers = numPlayers;
+     2498:   54:  state->numPlayers = numPlayers;
         -:   55:
         -:   56:  //check selected kingdom cards are different
-    27676:   57:  for (i = 0; i < 10; i++)
+    27478:   57:  for (i = 0; i < 10; i++)
         -:   58:    {
-   276760:   59:      for (j = 0; j < 10; j++)
+   274780:   59:      for (j = 0; j < 10; j++)
         -:   60:        {
-   251600:   61:	  if (j != i && kingdomCards[j] == kingdomCards[i])
+   249800:   61:	  if (j != i && kingdomCards[j] == kingdomCards[i])
         -:   62:	    {
     #####:   63:	      return -1;
         -:   64:	    }
@@ -30085,13 +30085,13 @@ Creating 'dominion.c.gcov'
         -:   70:  ///////////////////////////////
         -:   71:
         -:   72:  //set number of Curse cards
-     2516:   73:  if (numPlayers == 2)
+     2498:   73:  if (numPlayers == 2)
         -:   74:    {
-     1263:   75:      state->supplyCount[curse] = 10;
+     1291:   75:      state->supplyCount[curse] = 10;
         -:   76:    }
-     1253:   77:  else if (numPlayers == 3)
+     1207:   77:  else if (numPlayers == 3)
         -:   78:    {
-     1253:   79:      state->supplyCount[curse] = 20;
+     1207:   79:      state->supplyCount[curse] = 20;
         -:   80:    }
         -:   81:  else
         -:   82:    {
@@ -30099,33 +30099,33 @@ Creating 'dominion.c.gcov'
         -:   84:    }
         -:   85:
         -:   86:  //set number of Victory cards
-     2516:   87:  if (numPlayers == 2)
+     2498:   87:  if (numPlayers == 2)
         -:   88:    {
-     1263:   89:      state->supplyCount[estate] = 8;
-     1263:   90:      state->supplyCount[duchy] = 8;
-     1263:   91:      state->supplyCount[province] = 8;
+     1291:   89:      state->supplyCount[estate] = 8;
+     1291:   90:      state->supplyCount[duchy] = 8;
+     1291:   91:      state->supplyCount[province] = 8;
         -:   92:    }
         -:   93:  else
         -:   94:    {
-     1253:   95:      state->supplyCount[estate] = 12;
-     1253:   96:      state->supplyCount[duchy] = 12;
-     1253:   97:      state->supplyCount[province] = 12;
+     1207:   95:      state->supplyCount[estate] = 12;
+     1207:   96:      state->supplyCount[duchy] = 12;
+     1207:   97:      state->supplyCount[province] = 12;
         -:   98:    }
         -:   99:
         -:  100:  //set number of Treasure cards
-     2516:  101:  state->supplyCount[copper] = 60 - (7 * numPlayers);
-     2516:  102:  state->supplyCount[silver] = 40;
-     2516:  103:  state->supplyCount[gold] = 30;
+     2498:  101:  state->supplyCount[copper] = 60 - (7 * numPlayers);
+     2498:  102:  state->supplyCount[silver] = 40;
+     2498:  103:  state->supplyCount[gold] = 30;
         -:  104:
         -:  105:  //set number of Kingdom cards
-    52836:  106:  for (i = adventurer; i <= treasure_map; i++)       	//loop all cards
+    52458:  106:  for (i = adventurer; i <= treasure_map; i++)       	//loop all cards
         -:  107:    {
-   415140:  108:      for (j = 0; j < 10; j++)           		//loop chosen cards
+   412170:  108:      for (j = 0; j < 10; j++)           		//loop chosen cards
         -:  109:	{
-   389980:  110:	  if (kingdomCards[j] == i)
+   387190:  110:	  if (kingdomCards[j] == i)
         -:  111:	    {
         -:  112:	      //check if card is a 'Victory' Kingdom card
-    25160:  113:	      if (kingdomCards[j] == great_hall || kingdomCards[j] == gardens)
+    24980:  113:	      if (kingdomCards[j] == great_hall || kingdomCards[j] == gardens)
         -:  114:		{
     #####:  115:		  if (numPlayers == 2){ 
     #####:  116:		    state->supplyCount[i] = 8; 
@@ -30134,13 +30134,13 @@ Creating 'dominion.c.gcov'
         -:  119:		}
         -:  120:	      else
         -:  121:		{
-    25160:  122:		  state->supplyCount[i] = 10;
+    24980:  122:		  state->supplyCount[i] = 10;
         -:  123:		}
-    25160:  124:	      break;
+    24980:  124:	      break;
         -:  125:	    }
         -:  126:	  else    //card is not in the set choosen for the game
         -:  127:	    {
-   364820:  128:	      state->supplyCount[i] = -1;
+   362210:  128:	      state->supplyCount[i] = -1;
         -:  129:	    }
         -:  130:	}
         -:  131:
@@ -30150,36 +30150,36 @@ Creating 'dominion.c.gcov'
         -:  135:  //supply intilization complete
         -:  136:
         -:  137:  //set player decks
-     8801:  138:  for (i = 0; i < numPlayers; i++)
+     8701:  138:  for (i = 0; i < numPlayers; i++)
         -:  139:    {
-     6285:  140:      state->deckCount[i] = 0;
-    25140:  141:      for (j = 0; j < 3; j++)
+     6203:  140:      state->deckCount[i] = 0;
+    24812:  141:      for (j = 0; j < 3; j++)
         -:  142:	{
-    18855:  143:	  state->deck[i][j] = estate;
-    18855:  144:	  state->deckCount[i]++;
+    18609:  143:	  state->deck[i][j] = estate;
+    18609:  144:	  state->deckCount[i]++;
         -:  145:	}
-    50280:  146:      for (j = 3; j < 10; j++)
+    49624:  146:      for (j = 3; j < 10; j++)
         -:  147:	{
-    43995:  148:	  state->deck[i][j] = copper;
-    43995:  149:	  state->deckCount[i]++;		
+    43421:  148:	  state->deck[i][j] = copper;
+    43421:  149:	  state->deckCount[i]++;		
         -:  150:	}
         -:  151:    }
         -:  152:
         -:  153:  //shuffle player decks
-     8801:  154:  for (i = 0; i < numPlayers; i++)
+     8701:  154:  for (i = 0; i < numPlayers; i++)
         -:  155:    {
-     6285:  156:      if ( shuffle(i, state) < 0 )
+     6203:  156:      if ( shuffle(i, state) < 0 )
         -:  157:	{
     #####:  158:	  return -1;
         -:  159:	}
         -:  160:    }
         -:  161:
         -:  162:  //draw player hands
-     8801:  163:  for (i = 0; i < numPlayers; i++)
+     8701:  163:  for (i = 0; i < numPlayers; i++)
         -:  164:    {  
         -:  165:      //initialize hand size to zero
-     6285:  166:      state->handCount[i] = 0;
-     6285:  167:      state->discardCount[i] = 0;
+     6203:  166:      state->handCount[i] = 0;
+     6203:  167:      state->discardCount[i] = 0;
         -:  168:      //draw 5 cards
         -:  169:      // for (j = 0; j < 5; j++)
         -:  170:      //	{
@@ -30188,59 +30188,59 @@ Creating 'dominion.c.gcov'
         -:  173:    }
         -:  174:  
         -:  175:  //set embargo tokens to 0 for all supply piles
-    70448:  176:  for (i = 0; i <= treasure_map; i++)
+    69944:  176:  for (i = 0; i <= treasure_map; i++)
         -:  177:    {
-    67932:  178:      state->embargoTokens[i] = 0;
+    67446:  178:      state->embargoTokens[i] = 0;
         -:  179:    }
         -:  180:
         -:  181:  //initialize first player's turn
-     2516:  182:  state->outpostPlayed = 0;
-     2516:  183:  state->phase = 0;
-     2516:  184:  state->numActions = 1;
-     2516:  185:  state->numBuys = 1;
-     2516:  186:  state->playedCardCount = 0;
-     2516:  187:  state->whoseTurn = 0;
-     2516:  188:  state->handCount[state->whoseTurn] = 0;
+     2498:  182:  state->outpostPlayed = 0;
+     2498:  183:  state->phase = 0;
+     2498:  184:  state->numActions = 1;
+     2498:  185:  state->numBuys = 1;
+     2498:  186:  state->playedCardCount = 0;
+     2498:  187:  state->whoseTurn = 0;
+     2498:  188:  state->handCount[state->whoseTurn] = 0;
         -:  189:  //int it; move to top
         -:  190:
         -:  191:  //Moved draw cards to here, only drawing at the start of a turn
-    15096:  192:  for (it = 0; it < 5; it++){
-    12580:  193:    drawCard(state->whoseTurn, state);
+    14988:  192:  for (it = 0; it < 5; it++){
+    12490:  193:    drawCard(state->whoseTurn, state);
         -:  194:  }
         -:  195:
-     2516:  196:  updateCoins(state->whoseTurn, state, 0);
+     2498:  196:  updateCoins(state->whoseTurn, state, 0);
         -:  197:
-     2516:  198:  return 0;
+     2498:  198:  return 0;
         -:  199:}
         -:  200:
-     6446:  201:int shuffle(int player, struct gameState *state) {
+     6343:  201:int shuffle(int player, struct gameState *state) {
         -:  202: 
         -:  203:
         -:  204:  int newDeck[MAX_DECK];
-     6446:  205:  int newDeckPos = 0;
+     6343:  205:  int newDeckPos = 0;
         -:  206:  int card;
         -:  207:  int i;
         -:  208:
-     6446:  209:  if (state->deckCount[player] < 1)
-      161:  210:    return -1;
-     6285:  211:  qsort ((void*)(state->deck[player]), state->deckCount[player], sizeof(int), compare); 
+     6343:  209:  if (state->deckCount[player] < 1)
+      140:  210:    return -1;
+     6203:  211:  qsort ((void*)(state->deck[player]), state->deckCount[player], sizeof(int), compare); 
         -:  212:  /* SORT CARDS IN DECK TO ENSURE DETERMINISM! */
         -:  213:
-    75420:  214:  while (state->deckCount[player] > 0) {
-    62850:  215:    card = floor(Random() * state->deckCount[player]);
-    62850:  216:    newDeck[newDeckPos] = state->deck[player][card];
-    62850:  217:    newDeckPos++;
-   219975:  218:    for (i = card; i < state->deckCount[player]-1; i++) {
-   157125:  219:      state->deck[player][i] = state->deck[player][i+1];
+    74436:  214:  while (state->deckCount[player] > 0) {
+    62030:  215:    card = floor(Random() * state->deckCount[player]);
+    62030:  216:    newDeck[newDeckPos] = state->deck[player][card];
+    62030:  217:    newDeckPos++;
+   217105:  218:    for (i = card; i < state->deckCount[player]-1; i++) {
+   155075:  219:      state->deck[player][i] = state->deck[player][i+1];
         -:  220:    }
-    62850:  221:    state->deckCount[player]--;
+    62030:  221:    state->deckCount[player]--;
         -:  222:  }
-    69135:  223:  for (i = 0; i < newDeckPos; i++) {
-    62850:  224:    state->deck[player][i] = newDeck[i];
-    62850:  225:    state->deckCount[player]++;
+    68233:  223:  for (i = 0; i < newDeckPos; i++) {
+    62030:  224:    state->deck[player][i] = newDeck[i];
+    62030:  225:    state->deckCount[player]++;
         -:  226:  }
         -:  227:
-     6285:  228:  return 0;
+     6203:  228:  return 0;
         -:  229:}
         -:  230:
     #####:  231:int playCard(int handPos, int choice1, int choice2, int choice3, struct gameState *state) 
@@ -30537,42 +30537,42 @@ Creating 'dominion.c.gcov'
     #####:  522:  return 0;
         -:  523:}
         -:  524:
-    17580:  525:int drawCard(int player, struct gameState *state)
+    17490:  525:int drawCard(int player, struct gameState *state)
         -:  526:{	int count;
         -:  527:  int deckCounter;
-    17580:  528:  if (state->deckCount[player] <= 0){//Deck is empty
+    17490:  528:  if (state->deckCount[player] <= 0){//Deck is empty
         -:  529:    
         -:  530:    //Step 1 Shuffle the discard pile back into a deck
         -:  531:    int i;
         -:  532:    //Move discard to deck
-      161:  533:    for (i = 0; i < state->discardCount[player];i++){
+      140:  533:    for (i = 0; i < state->discardCount[player];i++){
     #####:  534:      state->deck[player][i] = state->discard[player][i];
     #####:  535:      state->discard[player][i] = -1;
         -:  536:    }
         -:  537:
-      161:  538:    state->deckCount[player] = state->discardCount[player];
-      161:  539:    state->discardCount[player] = 0;//Reset discard
+      140:  538:    state->deckCount[player] = state->discardCount[player];
+      140:  539:    state->discardCount[player] = 0;//Reset discard
         -:  540:
         -:  541:    //Shufffle the deck
-      161:  542:    shuffle(player, state);//Shuffle the deck up and make it so that we can draw
+      140:  542:    shuffle(player, state);//Shuffle the deck up and make it so that we can draw
         -:  543:   
         -:  544:    if (DEBUG){//Debug statements
         -:  545:      printf("Deck count now: %d\n", state->deckCount[player]);
         -:  546:    }
         -:  547:    
-      161:  548:    state->discardCount[player] = 0;
+      140:  548:    state->discardCount[player] = 0;
         -:  549:
         -:  550:    //Step 2 Draw Card
-      161:  551:    count = state->handCount[player];//Get current player's hand count
+      140:  551:    count = state->handCount[player];//Get current player's hand count
         -:  552:    
         -:  553:    if (DEBUG){//Debug statements
         -:  554:      printf("Current hand count: %d\n", count);
         -:  555:    }
         -:  556:    
-      161:  557:    deckCounter = state->deckCount[player];//Create a holder for the deck count
+      140:  557:    deckCounter = state->deckCount[player];//Create a holder for the deck count
         -:  558:
-      161:  559:    if (deckCounter == 0)
-      161:  560:      return -1;
+      140:  559:    if (deckCounter == 0)
+      140:  560:      return -1;
         -:  561:
     #####:  562:    state->hand[player][count] = state->deck[player][deckCounter - 1];//Add card to hand
     #####:  563:    state->deckCount[player]--;
@@ -30580,19 +30580,19 @@ Creating 'dominion.c.gcov'
         -:  565:  }
         -:  566:
         -:  567:  else{
-    17419:  568:    int count = state->handCount[player];//Get current hand count for player
+    17350:  568:    int count = state->handCount[player];//Get current hand count for player
         -:  569:    int deckCounter;
         -:  570:    if (DEBUG){//Debug statements
         -:  571:      printf("Current hand count: %d\n", count);
         -:  572:    }
         -:  573:
-    17419:  574:    deckCounter = state->deckCount[player];//Create holder for the deck count
-    17419:  575:    state->hand[player][count] = state->deck[player][deckCounter - 1];//Add card to the hand
-    17419:  576:    state->deckCount[player]--;
-    17419:  577:    state->handCount[player]++;//Increment hand count
+    17350:  574:    deckCounter = state->deckCount[player];//Create holder for the deck count
+    17350:  575:    state->hand[player][count] = state->deck[player][deckCounter - 1];//Add card to the hand
+    17350:  576:    state->deckCount[player]--;
+    17350:  577:    state->handCount[player]++;//Increment hand count
         -:  578:  }
         -:  579:
-    17419:  580:  return 0;
+    17350:  580:  return 0;
         -:  581:}
         -:  582:
     #####:  583:int getCost(int cardNumber)
@@ -30774,7 +30774,7 @@ Creating 'dominion.c.gcov'
         -:  759:  int c_Drawn;
      5000:  760:  int z = 0;// this is the counter for the temp hand
      5000:  761:  if (nextPlayer > (state->numPlayers - 1)){
-        7:  762:    nextPlayer = 0;
+        1:  762:    nextPlayer = 0;
         -:  763:  }
         -:  764:  
         -:  765:	
@@ -31286,9 +31286,9 @@ Creating 'dominion.c.gcov'
      5000: 1271:  if ( handPos == (state->handCount[currentPlayer] - 1) ) 	//last card in hand array is played
         -: 1272:    {
         -: 1273:      //reduce number of cards in hand
-        6: 1274:      state->handCount[currentPlayer]--;
+        2: 1274:      state->handCount[currentPlayer]--;
         -: 1275:    }
-     4994: 1276:  else if ( state->handCount[currentPlayer] == 1 ) //only one card in hand
+     4998: 1276:  else if ( state->handCount[currentPlayer] == 1 ) //only one card in hand
         -: 1277:    {
         -: 1278:      //reduce number of cards in hand
     #####: 1279:      state->handCount[currentPlayer]--;
@@ -31296,11 +31296,11 @@ Creating 'dominion.c.gcov'
         -: 1281:  else 	
         -: 1282:    {
         -: 1283:      //replace discarded card with last card in hand
-     4994: 1284:      state->hand[currentPlayer][handPos] = state->hand[currentPlayer][ (state->handCount[currentPlayer] - 1)];
+     4998: 1284:      state->hand[currentPlayer][handPos] = state->hand[currentPlayer][ (state->handCount[currentPlayer] - 1)];
         -: 1285:      //set last card to -1
-     4994: 1286:      state->hand[currentPlayer][state->handCount[currentPlayer] - 1] = -1;
+     4998: 1286:      state->hand[currentPlayer][state->handCount[currentPlayer] - 1] = -1;
         -: 1287:      //reduce number of cards in hand
-     4994: 1288:      state->handCount[currentPlayer]--;
+     4998: 1288:      state->handCount[currentPlayer]--;
         -: 1289:    }
         -: 1290:	
      5000: 1291:  return 0;
@@ -31343,34 +31343,34 @@ Creating 'dominion.c.gcov'
     #####: 1328:  return 0;
         -: 1329:}
         -: 1330:
-     2516: 1331:int updateCoins(int player, struct gameState *state, int bonus)
+     2498: 1331:int updateCoins(int player, struct gameState *state, int bonus)
         -: 1332:{
         -: 1333:  int i;
         -: 1334:	
         -: 1335:  //reset coin count
-     2516: 1336:  state->coins = 0;
+     2498: 1336:  state->coins = 0;
         -: 1337:
         -: 1338:  //add coins for each Treasure card in player's hand
-    15096: 1339:  for (i = 0; i < state->handCount[player]; i++)
+    14988: 1339:  for (i = 0; i < state->handCount[player]; i++)
         -: 1340:    {
-    12580: 1341:      if (state->hand[player][i] == copper)
+    12490: 1341:      if (state->hand[player][i] == copper)
         -: 1342:	{
-    10064: 1343:	  state->coins += 1;
+     9992: 1343:	  state->coins += 1;
         -: 1344:	}
-     2516: 1345:      else if (state->hand[player][i] == silver)
+     2498: 1345:      else if (state->hand[player][i] == silver)
         -: 1346:	{
     #####: 1347:	  state->coins += 2;
         -: 1348:	}
-     2516: 1349:      else if (state->hand[player][i] == gold)
+     2498: 1349:      else if (state->hand[player][i] == gold)
         -: 1350:	{
     #####: 1351:	  state->coins += 3;
         -: 1352:	}	
         -: 1353:    }	
         -: 1354:
         -: 1355:  //add bonus
-     2516: 1356:  state->coins += bonus;
+     2498: 1356:  state->coins += bonus;
         -: 1357:
-     2516: 1358:  return 0;
+     2498: 1358:  return 0;
         -: 1359:}
         -: 1360:
         -: 1361:
