@@ -32,9 +32,9 @@ int main(){
 //    int count2 = 0;
 
         
-    int iters = 5000;
+    int iters = 5000; //number of iterations
     int treasures[] = {copper,silver,gold};
-    int t_count;
+    int t_count;    //treasure count
     int i, n, player;
     struct gameState G;
     int min = 2; //minimum number of cards, otherwise dominion doesn't work properly
@@ -44,24 +44,27 @@ int main(){
     }
 
     int c;
+    //run the tests
     for (c = 0; c < iters; c++){
+        //sets randomized vals for game state
         for (i = 0; i < sizeof(struct gameState); i++){
             ((char*)&G)[i] = floor(Random() * 256);
         }
         player = floor(Random() * MAX_PLAYERS);
         G.deckCount[player] = floor(Random() * ((MAX_DECK - min) + 1) + min);
         t_count = floor(Random() * ((G.deckCount[player] - min) + 1) + min);
-
+        //randomize the number of treasures each player gets
         for (i = 0; i < t_count; i++) {
             G.deck[player][i] = treasures[rand() % 3];
         }
+        //initialize discard pile
         G.discardCount[player] = 0;
         G.handCount[player] = floor(Random() * ((MAX_HAND - min) + 1) + min);
         G.whoseTurn = player;
         //call the random function
         randomAdventurer(player, &G);
     }
-// calculate the total number of failures from array
+    // calculate the total number of failures from array
     int j;
     for(j = 0; j < 6; j++){
         total += fail_counts[j];
@@ -78,7 +81,7 @@ int main(){
             printf("%s failed: %d\n", fx[n], fail_counts[n]);
         }
     }
-
+    //double check the failure count versus the number of iterations
     int check;
     check = iters - total;
     if(check > 0){
@@ -91,11 +94,9 @@ int main(){
         printf("Passed tests: %d\n", 0);
         printf("Failed test: %d\n", iters);
     }
-
     return 0;
-
 }
-
+//randomAdventurer function
 void randomAdventurer(int p, struct gameState *G){
     //create gameState to store state of pre
     struct gameState pre;
@@ -173,6 +174,7 @@ void randomAdventurer(int p, struct gameState *G){
     // get the pre_tc
     for (i = 0; i < pre.handCount[p]; i++) {
         card = pre.hand[p][i];
+        //check for a treasure card
         if (card == copper || card == silver || card == gold) {
             pre_tc++;
         }
@@ -181,6 +183,7 @@ void randomAdventurer(int p, struct gameState *G){
     if (post_tc != pre_tc) {
         //increment the number of treasure count fails
         tc++;
+        //set the value of new count equal to spot in the fails array
         fail_counts[3] = tc;
        // printf("treasure fail count: %d\n", fail_counts[3]);
     }
