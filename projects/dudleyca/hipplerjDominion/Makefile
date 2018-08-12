@@ -49,6 +49,14 @@ randomtestadventurer: randomtestadventurer.c dominion.c rngs.c
 	gcov dominion.c >> randomtestadventurer.out
 	cat dominion.c.gcov >> randomtestadventurer.out
 
+cardtest2: cardtest2.c dominion.c rngs.c
+	echo "cardtest2.c:" > cardtest2.out
+	gcc -o cardtest2 -g  cardtest2.c dominion.c rngs.c $(CFLAGS)
+	./cardtest2 >> cardtest2.out
+	gcov cardtest2.c >> cardtest2.out
+	gcov dominion.c >> cardtest2.out
+	cat dominion.c.gcov >> cardtest2.out
+
 unittestresults: cardtest1.c unittest1.c unittest2.c unittest3.c unittest4.c dominion.c rngs.c
 	echo "Result for running Dominion test suit:" > unittestresults.out
 	echo "unittest1.c:" >> unittestresults.out

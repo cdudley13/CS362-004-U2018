@@ -1122,7 +1122,7 @@ void adventurer_refactor(struct gameState *state, int currentPlayer, int *tempha
 void smithy_refactor(struct gameState *state, int currentPlayer, int handPos) {
   //+3 Cards
   int i = 0;
-  for (i = 0; i < 10; i++) {
+  for (i = 0; i < 3; i++) {//CHANGED i < 10 --> i < 3 to fix bug!
     drawCard(currentPlayer, state);
   }
   //discard card from hand
